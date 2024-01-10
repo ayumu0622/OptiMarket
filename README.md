@@ -1,5 +1,5 @@
-# Welcome to the Personal Project - OptiMarket: Uncovering the Ultimate Marketing Approach
-
+# Welcome to the Personal Project - [OptiMarket: Uncovering the Ultimate Marketing Approach](https://ayumu0622.github.io/OptiMarket_Uncovering_the_Ultimate_Marketing_Approach/)
+## Access this project from [here](https://ayumu0622.github.io/OptiMarket_Uncovering_the_Ultimate_Marketing_Approach/)
 Hello! I'm Ayumu Justin Ueda, a Data Science student at UC Berkeley. You can find my profile on (https://www.linkedin.com/in/ayumu-ueda-ab1879224/).
 
 In this project, as a data scientist at a car insurance company, I've been provided with last year's data documenting the outcomes of marketing campaigns involving various types of strategies (a combination of insurance renewal plans - Offer1 and Offer2, and different sales channels - Agent, Branch, Call Center, Email).
